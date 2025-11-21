@@ -1,0 +1,23 @@
+body {
+    text-align: center;
+    font-family: Arial;
+    padding: 20px;
+}
+
+img {
+    width: 500px;
+    height: 300px;
+    border-radius: 10px;
+}
+
+button {
+    padding: 8px 15px;
+    margin: 10px;
+    cursor: pointer;
+    width: auto;
+    height: auto;
+    
+    background-color: rgb(189, 140, 73);
+    font-size: medium;
+    border-radius: 5px;
+}
