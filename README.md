@@ -6,10 +6,10 @@
   
 </div>
 
-<h1>Task 1 : TO DO LIST</h1>
+<h1>Task 1 : CHARACTER COUNTER</h1>
 <div>
 <img src="Image/TASK2(A).png">
-<img src="">
+<img src="Image/TASK2(B).png">
   
 </div>
 
