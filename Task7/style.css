@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f7f7f7;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+h2{
+    color: #333;
+    text-align: center;
+    margin-bottom: 20px;
+
+}
+
+ul{
+    list-style-type: none;
+    padding: 0;
+    max-width: 400px;
+    margin: 0 auto;
+
+}
+
+button {
+    padding: 10px 20px;
+    margin: 5px;
+    background: #2e7d32;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+button:hover{
+    background-color: #255923;
+
+}
+button:active{
+    background-color: #1e461a;
+
+}
