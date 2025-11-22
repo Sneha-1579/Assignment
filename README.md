@@ -47,10 +47,10 @@
   
 </div>
 
-<h1>Task 8 : TO DO LIST</h1>
+<h1>Task 8 : SEQUENTIAL PROMISE</h1>
 <div>
 <img src="Image/TASK8(A).png">
-<img src="">
+<img src="Image/TASK8(B).png">
   
 </div>
 
