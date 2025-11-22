@@ -40,14 +40,14 @@
   
 </div>
 
-<h1>Task 7 : TO DO LIST</h1>
+<h1>Task 7 : PRODUCT FILTER</h1>
 <div>
 <img src="Image/TASK7(A).png">
-<img src="">
+<img src="Image/TASK7(B).png">
   
 </div>
 
-<h1>Task 1 : TO DO LIST</h1>
+<h1>Task 8 : TO DO LIST</h1>
 <div>
 <img src="">
 <img src="">
