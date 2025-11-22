@@ -33,9 +33,9 @@
   
 </div>
 
-<h1>Task 1 : TO DO LIST</h1>
+<h1>Task 6 : JOKE MAKER</h1>
 <div>
-<img src="">
+<img src="Image/TASK6.png">
 <img src="">
   
 </div>
