@@ -6,22 +6,22 @@
   
 </div>
 
-<h1>Task 1 : CHARACTER COUNTER</h1>
+<h1>Task 2 : CHARACTER COUNTER</h1>
 <div>
 <img src="Image/TASK2(A).png">
 <img src="Image/TASK2(B).png">
   
 </div>
 
-<h1>Task 1 : IMAGE CAROUSEL</h1>
+<h1>Task 3 : IMAGE CAROUSEL</h1>
 <div>
 <img src="Image/TASK3.png">
   
 </div>
 
-<h1>Task 1 : TO DO LIST</h1>
+<h1>Task 4 : FROM VALIDATION</h1>
 <div>
-<img src="">
+<img src="Image/TASK4(A).png">
 <img src="">
   
 </div>
