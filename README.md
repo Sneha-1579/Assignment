@@ -13,10 +13,9 @@
   
 </div>
 
-<h1>Task 1 : TO DO LIST</h1>
+<h1>Task 1 : IMAGE CAROUSEL</h1>
 <div>
-<img src="">
-<img src="">
+<img src="Image/TASK3.png">
   
 </div>
 
