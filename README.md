@@ -2,7 +2,7 @@
 <div>
 <img src="Image/TASK1(A).png">
 <img src="Image/TASK1(B).png">
-<img src="">
+<img src="Image/TASK1(C).png">
   
 </div>
 
